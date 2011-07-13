@@ -1,0 +1,42 @@
+Authentication in Projects
+
+USER REGISTRATION
+
+1. Create new Project / Modify Existing Project
+
+2. Add gem 'bcrypt-ruby', :require => "bcrypt" to your gem file and bundle install
+
+3. Create a controller for users 'rails g controller users new'
+
+4. Create a model for users 'rails g model user email:string password_hash:string password_salt:string'
+
+5. 'rake db:migrate' to create the users table
+
+6. Add attribute accessors and validations for user details during the sign_up phase
+
+7 . Add the encrypt_password method to the user model
+
+8. Add code to the controller to create the user when the form submission happens
+
+9. Edit the view file for the register user form
+
+10. Modify routes
+ 10.1. Add 1 to access the sign_up page 'get "sign_up" => "users#new", :as => "sign_up"'
+ 10.2  Add resources :users so create can be called when new user form submitted
+
+
+SESSION MANAGEMENT
+
+11. Generate the sessions controller 'rails g controller sessions new'
+
+12. Edit the new login for for creating sessions (form_tag)
+
+13. Add the authenticate method to the User model
+
+14. Edit the controller and create methods 'create' to call authenticate and set user in session and 'destroy' to logout
+
+15. Edit the routes file to set up routes for login and logout
+
+
+
+
