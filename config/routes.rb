@@ -1,4 +1,8 @@
 Auth4::Application.routes.draw do
+
+  match 'posts/index' => 'posts#index'
+  resources :posts
+
   get "sessions/new"
 
   get "sign_up" => "users#new", :as => "sign_up"
