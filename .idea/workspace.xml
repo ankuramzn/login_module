@@ -59,19 +59,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="s3.rake" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lib/tasks/s3.rake">
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="59" selection-start="1198" selection-end="1198" vertical-scroll-proportion="0.2683871">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="scratch.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="mock:///scratch.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="134" selection-start="1245" selection-end="1255" vertical-scroll-proportion="0.0">
+            <state line="5" column="28" selection-start="43" selection-end="43" vertical-scroll-proportion="0.041586693">
               <folding />
             </state>
           </provider>
@@ -91,39 +82,9 @@
     <option name="CHECKOUT_INCLUDE_TAGS" value="false" />
     <option name="UPDATE_CHANGES_POLICY" value="STASH" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="mock:///IRB console" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Rails console: auth4" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Rails console: auth4" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Rails console: auth4" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Rails console: auth4" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Rails console: auth4" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Rails console: auth4" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Rails console: auth4" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Rails console: auth4" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Rails console: auth4" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Rails console: auth4" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Rails console: auth4" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Rails console: auth4" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Rails console: auth4" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Rails console: auth4" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Rails console: auth4" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Rails console: auth4" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Rails console: auth4" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Rails console: auth4" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Rails console: auth4" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Rails console: auth4" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Rails console: auth4" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Rails console: auth4" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Rails console: auth4" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Rails console: auth4" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Rails console: auth4" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Rails console: auth4" root0="SKIP_HIGHLIGHTING" />
-  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/models/user.rb" />
         <option value="$PROJECT_DIR$/app/controllers/sessions_controller.rb" />
         <option value="$PROJECT_DIR$/README" />
         <option value="$PROJECT_DIR$/app/controllers/application_controller.rb" />
@@ -139,6 +100,7 @@
         <option value="$PROJECT_DIR$/lib/tasks/emr.rake" />
         <option value="/scratch.txt" />
         <option value="$PROJECT_DIR$/app/models/amazon_emr_asset.rb" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -175,6 +137,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="RailsProjectView" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -189,7 +152,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="auth4" />
+              <option name="myItemId" value="login_module" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -199,79 +162,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="auth4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="auth4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="auth4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javascripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="auth4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="auth4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tasks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="auth4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="auth4" />
+              <option name="myItemId" value="login_module" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="auth4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="auth4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="models" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -279,19 +174,18 @@
       </pane>
       <pane id="Scope" />
       <pane id="Favorites" />
-      <pane id="RailsProjectView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="preferences.keymap" />
     <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="preferences.keymap" />
     <property name="RakeTaksPopup.undocumentedIncluded" value="true" />
     <property name="RailsGeneratorsPopup.hiddenIncluded" value="false" />
-    <property name="options.searchVisible" value="true" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="GoToClass.includeJavaFiles" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager" selected="Rails.Development: auth4">
     <configuration default="false" name="emr:list_all_jobs_in_status" type="RakeRunConfigurationType" factoryName="Rake" temporary="true">
@@ -667,7 +561,17 @@
       <created>1310575739800</created>
       <updated>1310575739800</updated>
     </task>
-    <servers />
+    <servers>
+      <GitHub shared="false">
+        <password>dfe1dfcbdfc3dfd9dfdfdfc1dfcfdf9bdf98</password>
+        <option name="repoAuthor" value="ankuramzn" />
+        <option name="repoName" value="login_module" />
+        <option name="url" value="https://github.com" />
+        <option name="useHttpAuthentication" value="false" />
+        <option name="useProxy" value="false" />
+        <username>ankuramzn</username>
+      </GitHub>
+    </servers>
   </component>
   <component name="ToolWindowManager">
     <frame x="1366" y="38" width="1050" height="1680" extended-state="6" />
@@ -750,91 +654,67 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/amazon_s3.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="345" selection-end="345" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="31" selection-start="351" selection-end="351" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="11" column="0" selection-start="345" selection-end="345" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/javascripts/jquery.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/javascripts/rails.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/posts/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="47" selection-start="482" selection-end="491" vertical-scroll-proportion="-14.181818">
-          <folding />
-        </state>
+        <state line="24" column="47" selection-start="482" selection-end="491" vertical-scroll-proportion="-14.181818" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="60" selection-start="147" selection-end="147" vertical-scroll-proportion="-2.9545455">
-          <folding />
-        </state>
+        <state line="5" column="60" selection-start="147" selection-end="147" vertical-scroll-proportion="-2.9545455" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/javascripts/application.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="481" selection-end="481" vertical-scroll-proportion="0.38235295">
-          <folding />
-        </state>
+        <state line="12" column="0" selection-start="481" selection-end="481" vertical-scroll-proportion="0.38235295" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="38" selection-start="73" selection-end="73" vertical-scroll-proportion="0.063725494">
-          <folding />
-        </state>
+        <state line="2" column="38" selection-start="73" selection-end="73" vertical-scroll-proportion="0.063725494" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/posts_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="37" selection-start="258" selection-end="264" vertical-scroll-proportion="0.1056338">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/amazon_s3_asset.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="58" selection-end="422" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="9" column="37" selection-start="258" selection-end="264" vertical-scroll-proportion="0.1056338" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/tasks/emr.rake">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="137" column="0" selection-start="4636" selection-end="5500" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="137" column="0" selection-start="4636" selection-end="5500" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="31" selection-start="351" selection-end="351" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/amazon_s3_asset.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="58" selection-end="422" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/models/amazon_emr_asset.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="47" selection-start="515" selection-end="515" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="17" column="47" selection-start="515" selection-end="515" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/tasks/s3.rake">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="59" selection-start="1198" selection-end="1198" vertical-scroll-proportion="0.2683871">
+        <state line="5" column="28" selection-start="43" selection-end="43" vertical-scroll-proportion="0.041586693">
           <folding />
         </state>
       </provider>
